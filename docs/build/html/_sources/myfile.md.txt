@@ -80,6 +80,7 @@ All sequences at each of the *k-mer* positions in the protein alignments were qu
 :align: center
 ```
 
+
 Users can select a position from the “SELECTED POSITION” box located in the upper right corner.
 
 ```{image} images/section3.jpg
